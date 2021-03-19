@@ -47,6 +47,7 @@
                 "source": "Windows.Terminal.Wsl",
                 "fontFace": "Consolas",
                 "startingDirectory": "%USERPROFILE%"
+                // "startingDirectory": "\\\\wsl$\\Ubuntu\\home\\"  可指定启动目录
             },
             {
                 // Make changes here to the powershell.exe profile.
